@@ -7,9 +7,6 @@ int main() {
     srand((unsigned)time(NULL));
     n = rand() % 10 + 1; // 随机生成1到10之间的数字
     printf("随机生成的数字个数: %d\n", n);
-    for (i = 0; i < n; i++) {
 
-
-    }
     return 0;
 }
