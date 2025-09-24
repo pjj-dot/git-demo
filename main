@@ -5,7 +5,7 @@
 int main() {
     int n, i;
     srand((unsigned)time(NULL));
-    n = rand() % 10 + 1; // 随机生成1到10之间的数字
+
 
 
     return 0;
